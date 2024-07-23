@@ -27,7 +27,7 @@ function(X.m, Y.m, grp.WTs, Pen.L, Pen.G, PQ.grps, GR.grps, grp_Norm0, lam1, lam
    grpWTs=as.vector(grp.WTs)
   }
 
-  if(!is.null(ncol(Pen_L))){
+  if(!is.null(ncol(Pen.L))){
    Pen_L =as.vector(t(Pen.L))} else{
    Pen_L =as.vector(Pen.L)
   }
