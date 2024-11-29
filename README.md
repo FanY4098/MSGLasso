@@ -4,4 +4,4 @@ Bin Nan <bnan@umich.edu> and Ji Zhu <jizhu@umich.edu>. The primary goal of this 
 bug that was affecting the funtionality of the original package.
 
 ## Change Made
-In line 30 of MSGLasso.R, Pen_L has been changed to Pen.L .
+In line 30 of MSGLasso.R, Pen_L has been changed to Pen.L; in  line 34, Pen_G has been changed to Pen.G.
